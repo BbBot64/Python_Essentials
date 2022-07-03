@@ -1,0 +1,9 @@
+Example_File_1 Contents:
+Congratulations: You Found the Secret!
+
+This is some Dummy text.
+There's a possibility nobody ever reads this.
+    If you do please feel free to sign your name below.
+I'll start using Python to read and append the file!
+
+Names:
