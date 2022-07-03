@@ -1,4 +1,3 @@
-Example_File_1 Contents:
 Congratulations: You Found the Secret!
 
 This is some Dummy text.
@@ -7,3 +6,4 @@ There's a possibility nobody ever reads this.
 I'll start using Python to read and append the file!
 
 Names:
+Jason J Ortiz -> Creator
